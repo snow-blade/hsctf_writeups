@@ -10,3 +10,38 @@ Teams of up to 5 students will be challenged to....
 - Reverse Engineer
 - Design Algorithms
 - Master The Internet
+### Writeups:
+##### Binary exploitation:
+- Intro to netcat2
+##### forensics
+- Mad libs
+- Comments
+- Meta mountains
+- Traffic Lights F
+- We love Puppies
+##### Algorithms:
+- Pythagorean tree fractal 1
+- Pythagorean tree fractal 2
+##### Reverse engineering
+- AP labs: Cs primer
+##### Crypto
+- xored
+- Morbid
+- Unexpected
+#### Misc
+- Does ctf work
+- Discord flag
+- Do stars spin?
+- Primes
+- Bored out of my mined
+- My first calculator
+- Binary word search
+#### Web exploitation
+- Blurry eyes
+- Debt simulator
+- Inspector gadget
+- Broken tokens
+- Trafic Lights
+- Very safe login
+
+
