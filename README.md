@@ -10,6 +10,15 @@ Teams of up to 5 students will be challenged to....
 - Reverse Engineer
 - Design Algorithms
 - Master The Internet
+##### Why did i participate
+I participated in this ctf because when i discovered googlectf in a youtube video, it made me interested in ctfs as i had some notions in cybersecurity, i searched for a team and mine was pretty awesome
+##### Major takeaways
+- Some stego tools
+- Cyberchef
+- Crypto notions
+- Burp suite and it's uses
+- Netcat
+- Some common vulnerabilities i did not know of
 ### Writeups:
 ##### Binary exploitation:
 - Intro to netcat2
